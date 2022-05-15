@@ -6,8 +6,8 @@
  <a href="mailto:kusa1230@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
  <h3>⭐ Commit State ⭐</h3>
- <div style="display:flex; justify-content:space-around;">
-  <img style="flex-grow:1;"src="https://github-readme-stats.vercel.app/api?username=jiwonman&show_icons=true">
-  <a style="flex-grow:1;" href="https://github.com/jiwonman"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonman&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact"></a>
+ <div style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiwonman&show_icons=true">
+  <a href="https://github.com/jiwonman"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonman&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact"></a>
  </div>
 </div>
