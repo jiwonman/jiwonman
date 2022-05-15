@@ -5,4 +5,4 @@
 
 ## Commit State
 ![jiwonman's github stats](https://github-readme-stats.vercel.app/api?username=jiwonman&show_icons=true)
-[![jiwonman's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonman&row=2&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jiwonman)
+[![jiwonman's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonman&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jiwonman)
